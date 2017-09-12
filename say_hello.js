@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello(name = "Ruby Programmer")
-  puts "Hello #{name}!"
-end
+function say_hello(name = "Ruby Programmer") {
+  console.log("Hello ", name, "!")
+}
