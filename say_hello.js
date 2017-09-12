@@ -2,4 +2,4 @@
 function say_hello(name) {
   console.log("Hello ", name, "!")
 }
-say_hello()
+say_hello("nick")
